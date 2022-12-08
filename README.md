@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, this is a profile dedicated to [1R0B0T](https://1r0b0t.github.io), a program that can respond to questions as a person (or at least will be able to respond to questions as if it was a person).
+Current Version: A-0.0.20
+
+Last Updated: 12/8/22
 
 <!--
 **1R0B0T/1R0B0T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
