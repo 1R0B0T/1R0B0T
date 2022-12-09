@@ -28,6 +28,7 @@ function generateReadMe() {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
+    alert(output);
   });
 }
 generateReadMe();
